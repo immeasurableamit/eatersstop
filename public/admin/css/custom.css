@@ -1,0 +1,10 @@
+table tr {
+    cursor: pointer;
+}
+.menu-img{
+    width: 25%;
+    height: 20%;
+}
+.stock-add{
+    max-height: 2.5rem!important;
+}

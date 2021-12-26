@@ -1,0 +1,4 @@
+Fullname,Mobile No.,Location,added_by
+Mary Doe,2547XXXXXXX,"Nairobi,Kenya",
+Peter Doe,2547XXXXXXX,"Mombasa,Kenya",
+John Doe,2547XXXXXXX,"Delhi,India",
